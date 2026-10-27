@@ -761,6 +761,12 @@
 			"url": "https://toolness.github.io/accessible-color-matrix/"
 		},
 		{
+			"title": "Choosing a presentation pointer when color is hard to distinguish",
+			"description": "Use labels, position, and shape alongside color in slide presentations. Compare software cues and physical pointers, then check the audience's view.",
+			"additional": "Light Tracer",
+			"url": "https://light-tracer.com/presentation-pointer-color-hard-to-distinguish/"
+		},
+		{
 			"title": "Colorable",
 			"description": "Color palette combination contrast tester",
 			"additional": "Brent Jackson",
